@@ -1,49 +1,29 @@
 ---
-title: "Patents"
-permalink: /patents/
+title: "Software Achievements"
+permalink: /Software Achievements/
 author_profile: true
 ---
 
-# Patents / 授权专利
+# Software Achievements
 
-1. 一种基于双向循环编码器神经网络的时间序列缺失值填充方法。邬惠峰，邱嘉晨，孙丹枫。专利号：ZL202011295072.5。
-
-2. 注塑机的产品检测方法、设备及系统.邬惠峰，孙丹枫，周宏伟,赵建勇.专利号：ZL202010022321.7。
-
-3. 基于异构双核PLC的自适应鲁棒控制方法、设备和系统.邬惠峰，廖建峰，吴瑜冰，赵建勇.专利号：ZL202010929390.6。
-
-4. 一种工业设备数据采集的方法.邬惠峰，侯丰，胡俊杰.专利号：202011424973X。
-
-5. 注塑成型系统中参数优化方法和装置.邬惠峰，孙丹枫，周宏伟.专利号：ZL201811521647.3。
-
-6. 注塑机的周边设备的控制方法、设备、存储介质及系统.邬惠峰，孙丹枫，周宏伟.专利号：ZL201811072990.4。
-
-7. 可编程控制器程序的安全检查方法、装置和设备.邬惠峰，张方德，严义.专利号：ZL 201810247212.8。
-
-8. 可变目标PLC仿真调试方法、存储介质及功能模块.邬惠峰，陈佰平，赵建勇，严义.专利号：202010145749.0。
-
-9. XML报文的自动解析、封装方法和装置.邬惠峰，胡俊杰，周宏伟.专利号：ZL201810865984.8。
-
-10. 双通道通信的方法和设备.邬惠峰，严义,张方德.专利号：ZL201810447975.7。
-
-11. 一种HMI消息分流调度方法、存储介质及装置.邬惠峰，陈佰平，赵建勇，严义.专利号：ZL201911004952.X。
-
-12. 注塑工艺文件处理方法及系统.邬惠峰，孙丹枫，周宏伟.专利号：ZL 201811296435.X。
-
-13. 注塑机的管理方法及装置.邬惠峰，孙丹枫，周宏伟.专利号：ZL201811193863.X。
-
-14. 可编程逻辑控制器组态文件的生成方法和装置.邬惠峰，严义，陈佰平,孙洁香.专利号：ZL201910160817.8。
-
-15. 多内核的嵌入式PLC软件恢复方法和PLC.邬惠峰，严义，陈佰平.专利号：ZL 201710439054.1。
-
-16. 一种移动机械臂的运动规划方法和装置.邬惠峰，廖建峰，赵建勇.专利号：ZL 201810765345.4。
-
-17. 一种视觉控制装置.邬惠峰，孙丹枫，严义.专利号：ZL201910297916.0。
-
-18. 嵌入式可编程控制器的运动控制方法及装置.邬惠峰，严义，孙丹枫.专利号：ZL201810929783.X。
-
-19. 基于PLC的运动控制方法和运动控制器.邬惠峰，严义，张方德.专利号：ZL201810613067.0。
-
-20. 嵌入式PLC的编译方法与嵌入式系统.邬惠峰,严义,陈佰平.专利号：ZL201710488033.9。
-
-21. 嵌入式PLC的接入设备通信协议帧格式信息远程确定方法.邬惠峰;陈佰平;严义.专利号：ZL201710639474.4.
+1. A Method for Filling Missing Values in Time Series Based on Bidirectional Recurrent Encoder Neural Network. Huifeng Wu, Jiachen Qiu, Danfeng Sun. ZL202011295072.5.
+2. Product testing methods, equipment, and systems for injection molding machines. Huifeng Wu, Danfeng Sun, Hongwei Zhou, Jianyong Zhao. ZL202010022321.7.
+3. Adaptive Robust control method, equipment and system based on heterogeneous dual core PLC. Huifeng Wu, Jianfeng Liao, Yubing Wu, Jianyong Zhao. ZL202010929390.6.
+4. A Method for Data Collection of Industrial Equipment. Huifeng Wu, Feng Hou, Junjie Hu. 202011424973X.
+5. Parameter optimization methods and devices in injection molding systems. Huifeng Wu, Danfeng Sun, Hongwei Zhou. ZL201811521647.3.
+6. Control methods, equipment, storage media, and systems for peripheral equipment of injection molding machines. Huifeng Wu, Danfeng Sun, Hongwei Zhou. ZL201811072990.4.
+7. Security inspection methods, devices, and equipment for programmable controller programs. Huifeng Wu, Fangde Zhang, Yi Yan. ZL201810247212.8.
+8. Variable target PLC simulation debugging method, storage medium, and functional module. Huifeng Wu, Baiping Chen, Jianyong Zhao, Yi Yan. 202010145749.0.
+9. Automatic parsing and encapsulation methods and devices for XML packets. Huifeng Wu, Junjie Hu, Hongwei Zhou. ZL201810865984.8.
+10. Method and equipment for dual channel communication. Huifeng Wu, Yi Yan, Fangde Zhang. ZL201810447975.7.
+11. An HMI message diversion scheduling method, storage medium, and device. Huifeng Wu, Baiping Chen, Jianyong Zhao, Yi Yan. ZL201911004952.X.
+12. Method and System for Processing Injection Molding Process Documents. Huifeng Wu, Danfeng Sun, Hongwei Zhou. ZL201811296435.X.
+13. Management methods and devices for injection molding machines. Huifeng Wu, Danfeng Sun, Hongwei Zhou. ZL201811193863.X.
+14. Method and Device for Generating Configuration File of Programmable logic controller. Huifeng Wu, Yi Yan, Baiping Chen, Jiexiang Sun. ZL201910160817.8.
+15. Multi kernel embedded PLC software recovery method and PLC. Huifeng Wu, Yi Yan, Baiping Chen. ZL201710439054.1.
+16. Motion planning method and device for mobile robot arms. Huifeng Wu, Jianfeng Liao, Jianyong Zhao. ZL201810765345.4.
+17. A visual control device. Huifeng Wu, Danfeng Sun, Yi Yan. ZL201910297916.0.
+18. Motion Control Method and Device of Embedded Programmable Controller. Huifeng Wu, Yi Yan, Danfeng Sun. ZL201810929783.X.
+19. PLC based motion control method and motion controller. Huifeng Wu, Yi Yan, Fangde Zhang. ZL201810613067.0.
+20. Compilation Method and Embedded System of Embedded PLC. Huifeng Wu, Yi Yan, Baiping Chen.ZL201710488033.9.
+21. Remote Determination Method of Frame Format Information for Communication Protocol of Embedded PLC Access Device. Huifeng Wu, Baiping Chen, Yi Yan. ZL201710639474.4.
