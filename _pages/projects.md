@@ -4,54 +4,33 @@ permalink: /projects/
 author_profile: true
 ---
 
-# Research Projects / 科研项目
+# Research Projects
 
-## National and Provincial Research Projects / 纵向科研
+## Longitudinal research
 
-1. 国家重点研发计划项目，科技部，云边协同数据采集监测技术与组态工具研发及应用，2022YFB3304600，1950万元，2022.11-2025.11，主持。
+1. National Key R&D Plan, Development and Application of Cloud Edge Collaborative Data Collection and Monitoring Technology and Configuration Tools, 2022YFB3304600, 19,500,000, 2022.11-2025.11, Leader
+2. Industrial Internet Innovation and Development Project, Edge Computing-Based Programmable Logic Controller for Industrial Internet of Things (PLC), TC190A44C1, 21,000,000, 2019.06-2021.12, Leader
+3. 2018 Intelligent Manufacturing Comprehensive Standardization and New Model Application Project, Development of an Extensible File Interaction Standard for Programmable Controller Control Configuration and Construction of an Experimental Verification Platform, Z135060009002-14, 16,000,000, 2018.01-2020.12, Technical leader
+4. Embodied Intelligence System Software Subject Breakthrough Pilot Project, 5,640,000, 2025.09-2030.10, Leader
+5. Key Projects of the National Natural Science Foundation, Theory and Methodology of Mass Customization for Complex and Variable Scenarios of Equipment group, U21A20484, 2,600,000, 2022.01-2025.12, Leader
+6. Core Electronic Devices, High-end Generic Chips and Basic Software, The Application of Industrial Control Embedded Real-Time Operating System in the Field of Industrial Internet, 2017ZX01038102, 1,110,000, 2017.01-2019.12, Leader
+7. Industrial Internet Innovation and Development Project, Networked Industrial Control System Based on Open Architecture, TC240AAKM-135, 5,850,000, 2024.10-2026.09, Leader
+8. 2018 Intelligent Manufacturing Comprehensive Standardization and New Model Application Project, Research on the Interaction Standard of PLC Man-Machine Interface Configuration File and Construction of Test Verification Platform,KYZ057619002，1,600,000, 2018.05-2020.12, Leader
+9. Key R&D Plan of Zhejiang, Joint Technology R&D and Demonstration Promotion Project – Research and Development of Interactive Standards and Related Technologies for Programmable Controller Basic Software Platform,2018C04001, 2,500,000, 2017.01-2019.12, Leader
+10. Key R&D Plan of Zhejiang, Research and Application of Industrial Internet Programmable Control System Based on Domestic Software and Hardware, 2021C01187, 3,100,000, 2020.01-2022.12, Leader
+11. National Science and Technology Support Plan, Research and Demonstration of Key Technologies for Intelligent Control of Wind Turbines and Intelligent Wind Farms,  2015BAA06B00, 27,790,000, 2015.04-2017.12, Key member
 
-2. 工业互联网创新发展工程，工信部，工业物联网边缘计算可编程逻辑控制器（PLC），TC190A44C1，2100万元，2019.06-2021.12，主持。
+## Transverse scientific research
 
-3. 2018年智能制造综合标准化与新模式应用项目，可编程控制器控制组态可扩展文件交互标准研制及实验验证平台建设，Z135060009002-14，1600 万元，2018.01-2020.12，技术负责人。
-
-4. 具身智能软件系统学科突破先导项目，564 万元，2025.09-2030.10，主持。
-
-5. 国家自然科学基金重点项目，装备群复杂多变场景的大规模定制化理论和方法，U21A20484，260 万元，2022.01-2025.12，主持。
-
-6. 核高基任务，科技部，工业控制嵌入式实时操作系统在工业互联网领域的应用，2017ZX01038102，111 万元，2017.01-2019.12，主持。
-
-7. 工业互联网创新发展工程，工信部，基于开放架构的网络化工业控制系统项目，TC240AAKM-135，585 万元，2024.10-2026.09，主持。
-
-8. 2018年智能制造综合标准化与新模式应用项目，可编程序控制器人机接口组态文件交互标准研究与试验验证平台建设，KYZ057619002，160 万元，2018.01-2020.12，主持。
-
-9. 浙江省重点研发计划，联合技术研发与示范推广项目-可编程控制器基础软件平台交互标准及相关技术研究及开发，2018C04001，250 万元，2017.01-2019.12，主持。
-
-10. 浙江省重点研发计划，基于高速实时以太网自主可控的工业互联网控制系统-基于国产软硬件的工业互联网可编程控制系统的研究和应用，2021C01187，310 万元，2020.01-2022.12，主持。
-
-11. 国家科技支撑计划，风电机组与智能风电场智能控制关键技术研究与示范，2015BAA06B00，2779 万元，2015.04-2017.12，核心成员。
-
-## Industry Collaboration Projects / 横向科研
-
-1. 面向工业场景的智能化技术研究与开发，1080 万元，2025.05-2028.05，杭州义益钛迪信息技术有限公司，主持。
-
-2. 有色金属精炼装备智能化提升关键技术研发，1000 万元，2021.04-2024.04，三门三友科技股份有限公司，主持。
-
-3. 数智网关系统设计与研发，浙江辉驿网络科技有限公司，2024.12-2025.11，主持。
-
-4. 基于Wi-SUN的高性能物联网通讯系统研究和开发，144 万元，2022.06-2023.05，杭州海兴电力有限公司，主持。
-
-5. 全自动多材料复合精密成型装备控制系统研发，110 万元，2020.10-2021.10，泰瑞机器股份有限公司，主持。
-
-6. 面向边缘计算的可编程控制器平台软件定制与优化，101.07 万元，2020.03-2021.03，杭州义益钛迪信息技术有限公司，主持。
-
-7. 辉驿智能物联网关键技术研发，100 万元，2019.11-2022.11，浙江辉驿网络科技有限公司，主持。
-
-8. 支持多用户并发操作的智能工单管理系统，100 万元，2020.06-2021.04，浙江辉驿网络科技有限公司，主持。
-
-9. 基于复杂曲面喷涂智能控制系统技术的生产线研发，100 万元，2020.06-2022.12，浙江明泉工业涂装有限公司，主持。
-
-10. 注塑机 ePLC 软件生成平台开发，100 万元，2013.01-2014.04，泰瑞机器股份有限公司，主持。
-
-11. 工业安防与环境监测云平台软件开发，84 万元，2016.01-2016.12，杭州义益钛迪信息技术有限公司，主持。
-
-12. 高性能低功耗NFC 合金磁粉芯新产品研发支撑软件开发，50 万元，2011.12-2012.12，浙江科达磁电有限公司，主持。
+1. Research and Development of Intelligent Technologies for Industrial Scenarios, 10,800,000, 2025.05–2028.05, Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
+2. Research and Development of Key Technologies for Intelligent Improvement of Non-Ferrous Metal Refining Equipment, 10,000,000, 2021.04-2024.04, Sanmen Sanyou Technology Co., Ltd, Leader
+3. Design and Development of Digital-Intelligent Gateway System,  2,000,000, 2024.12–2025.11, Zhejiang Huiyi Network Technology Co., Ltd, Leader
+4. Research and Development of High-Performance IoT Communication System Based on Wi-SUN, 1,440,000 RMB, 2022.06–2023.05, Hangzhou Haixing Electric Power Co., Ltd., Leader
+5. Development of Control System for Fully Autonomous Multiple Material Composite Precision Forming Equipment, 1,100,000, 2020.10-2021.10, Tederic Machinery Co., Ltd, Leader
+6. Customization and Optimization for Edge Computing Oriented Programmable Controller Platform Software, 1,010,700, 2020.03-2021.03, Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
+7. Research and Development of Key Technologies for Huiyi Intelligent Internet of Things, 1,000,000, 2019.11-2022.11, Zhejiang Huiyi Network Technology Co., Ltd, Leader
+8. An Intelligent Work Order Management System That Supports Concurrent Operations by Multiple Users, 1,000,000, 2020.06-2021.04, Zhejiang Huiyi Network Technology Co., Ltd, Leader
+9. Research and Development of Production Line Based on Intelligent Control System Technology for Complex Curved Surface Painting, 1,000,000, 2020.06-2022.12, Zhejiang Mingquan Industrial Spraying Equipment Co., Ltd, Leader
+10. Development of ePLC Software Generation Platform for Injection Molding Machines, 1,000,000, 2013.01-2014.04, Tederic Machinery Co., Ltd, Leader
+11. Development of Industrial Security and Environmental Monitoring Cloud Platform Software, 840,000, 2016.01-2016，Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
+12. Development of High-Performance and Low-Power NFC Alloy Magnetic Powder Core New Product Research and Development Support Software, 500,000, 2011.12-2012.12, Zhejiang NBTM Keda Magnetoelectricity Co., Ltd, Leader
