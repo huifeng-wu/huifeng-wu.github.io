@@ -31,6 +31,10 @@ author:
   employer         : "Hangzhou Dianzi University"
   email            : "whf@hdu.edu.cn" 
   uri              : "https://faculty.hdu.edu.cn/kyc/whf/main.htm"
+  links:
+    - label: "Industrial of Industrial Internet"
+      icon: "fas fa-fw fa-industry"
+      url: "https://is.hdu.edu.cn/"
   
   # Academic websites
   academia         : # URL
