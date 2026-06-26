@@ -1,10 +1,10 @@
 ---
 title: ""
-permalink: /Software Achievements/
+permalink: /Patents/
 author_profile: true
 ---
 
-# Software Achievements
+# Patents
 
 1. A Method for Filling Missing Values in Time Series Based on Bidirectional Recurrent Encoder Neural Network. Huifeng Wu, Jiachen Qiu, Danfeng Sun. ZL202011295072.5.
 2. Product testing methods, equipment, and systems for injection molding machines. Huifeng Wu, Danfeng Sun, Hongwei Zhou, Jianyong Zhao. ZL202010022321.7.
