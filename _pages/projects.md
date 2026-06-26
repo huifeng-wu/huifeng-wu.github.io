@@ -1,10 +1,10 @@
 ---
-title: "Research Projects"
+title: ""
 permalink: /projects/
 author_profile: true
 ---
 
-## Longitudinal research
+## Projects
 
 1. National Key R&D Plan, Development and Application of Cloud Edge Collaborative Data Collection and Monitoring Technology and Configuration Tools, 2022YFB3304600, 19,500,000, 2022.11-2025.11, Leader
 2. Industrial Internet Innovation and Development Project, Edge Computing-Based Programmable Logic Controller for Industrial Internet of Things (PLC), TC190A44C1, 21,000,000, 2019.06-2021.12, Leader
@@ -17,18 +17,15 @@ author_profile: true
 9. Key R&D Plan of Zhejiang, Joint Technology R&D and Demonstration Promotion Project – Research and Development of Interactive Standards and Related Technologies for Programmable Controller Basic Software Platform,2018C04001, 2,500,000, 2017.01-2019.12, Leader
 10. Key R&D Plan of Zhejiang, Research and Application of Industrial Internet Programmable Control System Based on Domestic Software and Hardware, 2021C01187, 3,100,000, 2020.01-2022.12, Leader
 11. National Science and Technology Support Plan, Research and Demonstration of Key Technologies for Intelligent Control of Wind Turbines and Intelligent Wind Farms,  2015BAA06B00, 27,790,000, 2015.04-2017.12, Key member
-
-## Transverse scientific research
-
-1. Research and Development of Intelligent Technologies for Industrial Scenarios, 10,800,000, 2025.05–2028.05, Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
-2. Research and Development of Key Technologies for Intelligent Improvement of Non-Ferrous Metal Refining Equipment, 10,000,000, 2021.04-2024.04, Sanmen Sanyou Technology Co., Ltd, Leader
-3. Design and Development of Digital-Intelligent Gateway System,  2,000,000, 2024.12–2025.11, Zhejiang Huiyi Network Technology Co., Ltd, Leader
-4. Research and Development of High-Performance IoT Communication System Based on Wi-SUN, 1,440,000 RMB, 2022.06–2023.05, Hangzhou Haixing Electric Power Co., Ltd., Leader
-5. Development of Control System for Fully Autonomous Multiple Material Composite Precision Forming Equipment, 1,100,000, 2020.10-2021.10, Tederic Machinery Co., Ltd, Leader
-6. Customization and Optimization for Edge Computing Oriented Programmable Controller Platform Software, 1,010,700, 2020.03-2021.03, Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
-7. Research and Development of Key Technologies for Huiyi Intelligent Internet of Things, 1,000,000, 2019.11-2022.11, Zhejiang Huiyi Network Technology Co., Ltd, Leader
-8. An Intelligent Work Order Management System That Supports Concurrent Operations by Multiple Users, 1,000,000, 2020.06-2021.04, Zhejiang Huiyi Network Technology Co., Ltd, Leader
-9. Research and Development of Production Line Based on Intelligent Control System Technology for Complex Curved Surface Painting, 1,000,000, 2020.06-2022.12, Zhejiang Mingquan Industrial Spraying Equipment Co., Ltd, Leader
-10. Development of ePLC Software Generation Platform for Injection Molding Machines, 1,000,000, 2013.01-2014.04, Tederic Machinery Co., Ltd, Leader
-11. Development of Industrial Security and Environmental Monitoring Cloud Platform Software, 840,000, 2016.01-2016，Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
-12. Development of High-Performance and Low-Power NFC Alloy Magnetic Powder Core New Product Research and Development Support Software, 500,000, 2011.12-2012.12, Zhejiang NBTM Keda Magnetoelectricity Co., Ltd, Leader
+12. Research and Development of Intelligent Technologies for Industrial Scenarios, 10,800,000, 2025.05–2028.05, Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
+13. Research and Development of Key Technologies for Intelligent Improvement of Non-Ferrous Metal Refining Equipment, 10,000,000, 2021.04-2024.04, Sanmen Sanyou Technology Co., Ltd, Leader
+14. Design and Development of Digital-Intelligent Gateway System,  2,000,000, 2024.12–2025.11, Zhejiang Huiyi Network Technology Co., Ltd, Leader
+15. Research and Development of High-Performance IoT Communication System Based on Wi-SUN, 1,440,000 RMB, 2022.06–2023.05, Hangzhou Haixing Electric Power Co., Ltd., Leader
+16. Development of Control System for Fully Autonomous Multiple Material Composite Precision Forming Equipment, 1,100,000, 2020.10-2021.10, Tederic Machinery Co., Ltd, Leader
+17. Customization and Optimization for Edge Computing Oriented Programmable Controller Platform Software, 1,010,700, 2020.03-2021.03, Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
+18. Research and Development of Key Technologies for Huiyi Intelligent Internet of Things, 1,000,000, 2019.11-2022.11, Zhejiang Huiyi Network Technology Co., Ltd, Leader
+19. An Intelligent Work Order Management System That Supports Concurrent Operations by Multiple Users, 1,000,000, 2020.06-2021.04, Zhejiang Huiyi Network Technology Co., Ltd, Leader
+20. Research and Development of Production Line Based on Intelligent Control System Technology for Complex Curved Surface Painting, 1,000,000, 2020.06-2022.12, Zhejiang Mingquan Industrial Spraying Equipment Co., Ltd, Leader
+21. Development of ePLC Software Generation Platform for Injection Molding Machines, 1,000,000, 2013.01-2014.04, Tederic Machinery Co., Ltd, Leader
+22. Development of Industrial Security and Environmental Monitoring Cloud Platform Software, 840,000, 2016.01-2016，Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
+23. Development of High-Performance and Low-Power NFC Alloy Magnetic Powder Core New Product Research and Development Support Software, 500,000, 2011.12-2012.12, Zhejiang NBTM Keda Magnetoelectricity Co., Ltd, Leader
