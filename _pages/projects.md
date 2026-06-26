@@ -1,10 +1,8 @@
 ---
-title: "Projects"
+title: "Research Projects"
 permalink: /projects/
 author_profile: true
 ---
-
-# Research Projects
 
 ## Longitudinal research
 
