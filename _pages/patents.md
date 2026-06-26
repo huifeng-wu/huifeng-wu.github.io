@@ -1,5 +1,5 @@
 ---
-title: "Software Achievements"
+title: ""
 permalink: /Software Achievements/
 author_profile: true
 ---
