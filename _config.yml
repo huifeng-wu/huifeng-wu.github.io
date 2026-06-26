@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Huifeng Wu / 邬惠峰"
+title                    : "Huifeng Wu"
 title_separator          : "-"
 name                     : &name "Huifeng Wu"
 description              : &description "Professor, Hangzhou Dianzi University"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "huifengwu526/huifengwu526.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Huifeng Wu / 邬惠峰"
+  name             : "Huifeng Wu"
   pronouns         : # example: ""  
   bio              : "Professor, Doctoral Supervisor, Hangzhou Dianzi University"
   location         : "Hangzhou, Zhejiang, China"
