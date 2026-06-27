@@ -10,7 +10,7 @@ redirect_from:
 # Huifeng Wu
 
 Huifeng Wu, male, professor, Ph.D. supervisor. He received his Ph.D. in Computer Science and Technology from Zhejiang University, Hangzhou, China. He was selected for the National Hundred, Thousand, and Ten ThousandTalent Project, the National Young and Middle-aged experts with outstanding contribution,the Leading Talent in Science and Technology Innovation in the Ten Thousand Talents Program of Zhejiang, the First Batch of Leading Talents in Science and Technology Innovation in University of Zhejiang. 
-His main research directions include intelligent software, edge computing, intelligent control, embedded system, programmable technology, embodied intelligent robots, etc. 
+His main research directions include intelligent software, edge computing, intelligent control, embedded system, programmable technology, etc. 
 
 ## Research Interests
 
@@ -19,7 +19,6 @@ His main research directions include intelligent software, edge computing, intel
 - Intelligent control
 - Embedded system
 - Programmable technology
-- Embodied intelligent robots
 
 ## Leadership
 - School of Computer Science, Director
