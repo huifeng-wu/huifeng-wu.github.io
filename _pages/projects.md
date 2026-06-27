@@ -6,17 +6,17 @@ author_profile: true
 
 # Projects
 
-1. National Key R&D Plan, Development and Application of Cloud Edge Collaborative Data Collection and Monitoring Technology and Configuration Tools, 2022YFB3304600, 2022.11-2025.11, Leader
-2. Industrial Internet Innovation and Development Project, Edge Computing-Based Programmable Logic Controller for Industrial Internet of Things (PLC), TC190A44C1, 2019.06-2021.12, Leader
-3. 2018 Intelligent Manufacturing Comprehensive Standardization and New Model Application Project, Development of an Extensible File Interaction Standard for Programmable Controller Control Configuration and Construction of an Experimental Verification Platform, Z135060009002-14, 2018.01-2020.12, Technical leader
+1. National Key R&D Plan, Development and Application of Cloud Edge Collaborative Data Collection and Monitoring Technology and Configuration Tools, 2022.11-2025.11, Leader
+2. Industrial Internet Innovation and Development Project, Edge Computing-Based Programmable Logic Controller for Industrial Internet of Things (PLC), 2019.06-2021.12, Leader
+3. 2018 Intelligent Manufacturing Comprehensive Standardization and New Model Application Project, Development of an Extensible File Interaction Standard for Programmable Controller Control Configuration and Construction of an Experimental Verification Platform, 2018.01-2020.12, Technical leader
 4. Embodied Intelligence System Software Subject Breakthrough Pilot Project, 2025.09-2030.10, Leader
-5. Key Projects of the National Natural Science Foundation, Theory and Methodology of Mass Customization for Complex and Variable Scenarios of Equipment group, U21A20484, 2022.01-2025.12, Leader
-6. Core Electronic Devices, High-end Generic Chips and Basic Software, The Application of Industrial Control Embedded Real-Time Operating System in the Field of Industrial Internet, 2017ZX01038102, 2017.01-2019.12, Leader
-7. Industrial Internet Innovation and Development Project, Networked Industrial Control System Based on Open Architecture, TC240AAKM-135, 2024.10-2026.09, Leader
-8. 2018 Intelligent Manufacturing Comprehensive Standardization and New Model Application Project, Research on the Interaction Standard of PLC Man-Machine Interface Configuration File and Construction of Test Verification Platform,KYZ057619002，2018.05-2020.12, Leader
-9. Key R&D Plan of Zhejiang, Joint Technology R&D and Demonstration Promotion Project – Research and Development of Interactive Standards and Related Technologies for Programmable Controller Basic Software Platform,2018C04001, 2017.01-2019.12, Leader
-10. Key R&D Plan of Zhejiang, Research and Application of Industrial Internet Programmable Control System Based on Domestic Software and Hardware, 2021C01187, 2020.01-2022.12, Leader
-11. National Science and Technology Support Plan, Research and Demonstration of Key Technologies for Intelligent Control of Wind Turbines and Intelligent Wind Farms,  2015BAA06B00, 2015.04-2017.12, Key member
+5. Key Projects of the National Natural Science Foundation, Theory and Methodology of Mass Customization for Complex and Variable Scenarios of Equipment group, 2022.01-2025.12, Leader
+6. Core Electronic Devices, High-end Generic Chips and Basic Software, The Application of Industrial Control Embedded Real-Time Operating System in the Field of Industrial Internet, 2017.01-2019.12, Leader
+7. Industrial Internet Innovation and Development Project, Networked Industrial Control System Based on Open Architecture, 2024.10-2026.09, Leader
+8. 2018 Intelligent Manufacturing Comprehensive Standardization and New Model Application Project, Research on the Interaction Standard of PLC Man-Machine Interface Configuration File and Construction of Test Verification Platform, 2018.05-2020.12, Leader
+9. Key R&D Plan of Zhejiang, Joint Technology R&D and Demonstration Promotion Project – Research and Development of Interactive Standards and Related Technologies for Programmable Controller Basic Software Platform, 2017.01-2019.12, Leader
+10. Key R&D Plan of Zhejiang, Research and Application of Industrial Internet Programmable Control System Based on Domestic Software and Hardware, 2020.01-2022.12, Leader
+11. National Science and Technology Support Plan, Research and Demonstration of Key Technologies for Intelligent Control of Wind Turbines and Intelligent Wind Farms, 2015.04-2017.12, Key member
 12. Research and Development of Intelligent Technologies for Industrial Scenarios, 2025.05–2028.05, Hangzhou Yiyi Taidi Information Technology Co., Ltd, Leader
 13. Research and Development of Key Technologies for Intelligent Improvement of Non-Ferrous Metal Refining Equipment, 2021.04-2024.04, Sanmen Sanyou Technology Co., Ltd, Leader
 14. Design and Development of Digital-Intelligent Gateway System, 2024.12–2025.11, Zhejiang Huiyi Network Technology Co., Ltd, Leader
